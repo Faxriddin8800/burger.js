@@ -1,0 +1,8 @@
+@media print{
+    .print{
+        display: flex;
+    }
+    .wrapper{
+        display: none;
+    }
+}
